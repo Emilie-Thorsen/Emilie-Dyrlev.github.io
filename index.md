@@ -2,7 +2,7 @@
 Velkommen til hjemmesiden for forskningsprojektet, *”Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser”*. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger. Projektet har modtaget etisk godkendelse af Aarhus Univseritets Forskningsetiske Komité den 27. september 2023 (Godkendelsesnummer: BSS-2023-084)
 
 ## Sådan behandler Aarhus Universitet dine personoplysninger
-I forbindelse med din deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan dine personoplysninger vil blive behandlet. 
+I forbindelse med din deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan dine personoplysninger vil blive behandlet.
 
 ## Den dataansvarlige
 Dataansvarlig for behandlingen af personoplysninger i forskningsprojektet er:
