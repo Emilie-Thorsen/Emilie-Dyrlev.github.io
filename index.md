@@ -1,5 +1,5 @@
 # Information til deltagere i forskningsprojektet
-Velkommen til hjemmesiden for forskningsprojektet, *”Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser”*. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger. Projektet har modtaget etisk godkendelse af Aarhus Univseritets Forskningsetiske Komité den 27. september 2023 (Godkendelsesnummer: BSS-2023-084)
+Velkommen til hjemmesiden for forskningsprojektet, *”Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser”*. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger.
 
 ## Sådan behandler Aarhus Universitet dine personoplysninger
 I forbindelse med din deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan dine personoplysninger vil blive behandlet.
@@ -23,7 +23,7 @@ dpo@au.dk
 Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser
 
 ## Formålet med projektet og behandlingen af dine personoplysninger
-I en dansk kontekst findes der ingen befolkningsundersøgelser, der kortlægger patienters perspektiver på digital psykiatri. Denne undersøgelse giver indblik i danske patienters holdning til digital psykiatri. Undersøgelsen sigter desuden mod at give et validt billede af, hvor udbredt brugen af teknologiske løsninger er i Danmark, samt hvilke teknologiske løsninger, der primært er i brug. Endelig bidrager undersøgelsen til forskningslitteraturen på området ved at give et differentieret billede af, hvilke grupper af patienter, der oplever at have særlig gavn af digital psykiatri, samt hvilke grupper af patienter, der oplever udfordringer ved brugen af digitale løsninger i deres behandlingsforløb.
+Undersøgelsen handler om, hvordan digital terapi påvirker relationen mellem behandlere og patienter. Vi undersøger, hvordan patienter oplever at bruge selvhjælpsbaseret terapi. Vi undersøger også, hvordan behandlere forstår og oplever deres faglighed i digital terapi
 
 ## Hvilke personoplysninger behandles i projektet?
 I projektet behandles følgende oplysninger om dig som deltager:
@@ -32,12 +32,8 @@ I projektet behandles følgende oplysninger om dig som deltager:
 + Cpr. nummer
 + Alder
 + Køn
-+ Etnisk baggrund
 + Helbredsoplysninger
-+ Adresse
-+ Telefonnummer
-+ Uddannelsesoplysninger
-+ Beskæftigelsesoplysninger
++ Øvrige personfølsomme oplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personfølsomme oplysninger
 
 ## Anvendelsen af automatiske behandlinger (profilering)
 Profilering er en automatisk behandling af dine personoplysninger, fx behandlinger, der er bestemt af en algoritme. Her kan du se, om der indgår automatiske behandlinger af dine personoplysninger.
@@ -45,19 +41,18 @@ Profilering er en automatisk behandling af dine personoplysninger, fx behandling
 + Der anvendes *ikke* automatisk behandling af personoplysninger
 
 ## Hvor længe opbevares dine øvrige personoplysninger?
-Dine personoplysninger opbevares på Aarhus Universitet i personhenførbar form. Senest 1 år efter indsamlingsdatoen vil dine personoplysninger blive slettet. Når forskningsprojektet er slut vil anonyme data blive overført til Rigsarkivet. I de anonyme data vil man ikke kunne genkende dig eller andre personer. Vi opbevarer dine personoplysninger i henhold til gældende lovgivning.
+Optagelserne og transskriberingerne vil blive sikkert gemt på Aarhus Universitets servere. Lydoptagelser og transskriptioner vil blive opbevaret i fem år efter sidste publikation. Dine personoplysninger behandles af Aarhus Universitet i personhenførbar form så længe, det er nødvendigt for forskningsformålet og reglerne om opbevaring efter ansvarlig forskningspraksis. Når dine personoplysninger ikke længere er nødvendige for behandlingen, vil de blive anonymiseret, overført til Rigsarkivet eller slettet
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
 Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
-+ [Rambøll Management Consulting A/S][auRMC], Hannemanns Allé 53 2300 København S, CVR-nummer 60997918
-+ [Danmarks Statistik][auDS], Sankt Kjelds Plads 11 2100 København Ø, CVR-nummer 17150413
++ [Center for Digital Psykiatri][auCFDP], Heden 11, 2. og 3. sal, 5000 Odense C.
 
 ## Personoplysninger er indhentet fra
 
 + Fra dig og andre* 
 
-*Andre refererer her til [Sundhedsdatastyrelsen][auSDS], [Danmarks Statistik][auDS] og [Rambøll Management Consulting A/S][auRMC].  
+*Andre refererer her til Center for Digital Psykatri [auCFDP] 
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
 
@@ -85,8 +80,6 @@ Datatilsynet
 Carl Jacobsens Vej 35
 2500 Valby
 
-[auSDS]: https://sundhedsdatastyrelsen.dk/da/registre-og-services/om-de-nationale-sundhedsregistre/sygdomme-laegemidler-og-behandlinger/landspatientregisteret
-[auDS]: https://www.dst.dk/da/
-[auRMC]: https://rambollxact.dk/datahaandtering
+[auCFDP]: https://psykiatrienisyddanmark.dk/forskning/tilladelser-og-anmeldelser-ved-forskningsprojekter
 [aujr]: https://pure.au.dk/portal/da/emdy@ps.au.dk
 [auSBN]: https://pure.au.dk/portal/da/persons/soren.broberg%40au.dk
