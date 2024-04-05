@@ -52,7 +52,7 @@ Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efte
 
 + Fra dig og andre* 
 
-*Andre refererer her til Center for Digital Psykatri [auCFDP] 
+*Andre refererer her til [Center for Digital Psykatri][auCFDP] 
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
 
