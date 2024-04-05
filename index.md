@@ -80,6 +80,6 @@ Datatilsynet
 Carl Jacobsens Vej 35
 2500 Valby
 
-[aujr]: [https://pure.au.dk/portal/da/emdy@ps.au.dk](https://pure.au.dk/portal/en/persons/emdy%40ps.au.dk)
+[aujr]: https://pure.au.dk/portal/da/persons/emdy%40ps.au.dk
 [auSBN]: https://pure.au.dk/portal/da/persons/soren.broberg%40au.dk
 [auCFDP]: https://psykiatrienisyddanmark.dk/forskning/tilladelser-og-anmeldelser-ved-forskningsprojekter
