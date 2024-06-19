@@ -43,9 +43,7 @@ Profilering er en automatisk behandling af dine personoplysninger, fx behandling
 Optagelserne og transskriberingerne fra interviews samt noter fra observationerne vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2026, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger og feltnoter bliver sløret inden de opbevares.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
-
-Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
-+ [Center for Digital Psykiatri][auCFDP], Heden 11, 2. og 3. sal, 5000 Odense C.
+Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregivelse af navn og cpr. nr. til skat efter reglerne i GDPR art. 11, stk. 1 og Skatteligningslovens § 1.
 
 ## Personoplysninger er indhentet fra
 
