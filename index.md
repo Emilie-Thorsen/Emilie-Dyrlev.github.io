@@ -44,6 +44,7 @@ Optagelserne og transskriberingerne fra interviews samt noter fra observationern
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregivelse af navn og cpr. nr. til skat efter reglerne i GDPR art. 11, stk. 1 og Skatteligningslovens § 1.
+Oplysninger bliver muligvis videregivet med henblik på forskningssamarbejde.
 
 ## Personoplysninger er indhentet fra
 
