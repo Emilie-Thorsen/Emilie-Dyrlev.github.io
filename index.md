@@ -48,7 +48,8 @@ Oplysninger bliver muligvis videregivet med henblik på forskningssamarbejde.
 
 ## Personoplysninger er indhentet fra
 
-+ Fra dig og andre* 
++ Fra dig og andre*
++ Vi har fået personoplysninger om dit navn og CPR-nummer gennem Center for Digital Psykiatri. Vi bruger disse oplysninger til at kontakte dig via Digital Post. Andre personoplysninger kommer fra dig selv
 
 *Andre refererer her til [Center for Digital Psykatri][auCFDP] 
 
