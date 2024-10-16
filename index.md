@@ -31,6 +31,8 @@ I projektet behandles følgende oplysninger om dig som deltager:
 + Cpr. nummer
 + Alder
 + Køn
++ Telefonnummer
++ E-mailadresse
 + Helbredsoplysninger
 + Øvrige personoplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personoplysninger
 
